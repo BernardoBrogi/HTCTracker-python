@@ -1,0 +1,158 @@
+{
+  "devices":[
+     {
+        "name": "tracking_reference_1",
+        "type": "Tracking Reference",
+        "serial":"LHB-3F986B5E"
+      },
+
+     {
+        "name": "tracking_reference_2",
+        "type": "Tracking Reference",
+        "serial":"LHB-98219632"
+      },
+
+      {
+        "name": "tracking_reference_3",
+        "type": "Tracking Reference",
+        "serial":"LHB-335CDA9E"
+      },
+
+      {
+        "name": "tracking_reference_4",
+        "type": "Tracking Reference",
+        "serial":"LHB-5011F128"
+      },
+      
+
+      {
+        "name": "tracking_reference2_1",
+        "type": "Tracking Reference",
+        "serial":"LHB-CF5CAE60"
+      },
+
+      {
+        "name": "tracking_reference2_2",
+        "type": "Tracking Reference",
+        "serial":"LHB-795E04DB"
+      },
+
+      {
+        "name": "tracking_reference2_3",
+        "type": "Tracking Reference",
+        "serial":"LHB-B01F3C07"
+      },
+
+      {
+        "name": "tracking_reference2_4",
+        "type": "Tracking Reference",
+        "serial":"LHB-941BC79C"
+      },
+
+      {
+        "name": "hand",
+        "type": "Tracker",
+        "serial":"LHR-D78A677B"
+      },
+
+     {
+        "name": "forearm",
+        "type": "Tracker",
+        "serial":"LHR-9E33B3D5"
+      },
+
+     {
+        "name": "arm",
+        "type": "Tracker",
+        "serial":"LHR-AFD55C9B"
+      },
+
+      {
+        "name": "chest",
+        "type": "Tracker",
+        "serial":"LHR-05166F33"
+      },
+
+
+
+
+
+      {
+        "name": "controlatHand",
+        "type": "Tracker",
+        "serial":"LHR-AF5878B2"
+      },
+
+      {
+        "name": "arm",
+        "type": "Tracker",
+        "serial":"LHR-BA68573B"
+      },
+
+      {
+        "name": "hand",
+        "type": "Tracker",
+        "serial":"LHR-E7C6844A"
+      },
+
+      {
+        "name": "chest",
+        "type": "Tracker",
+        "serial":"LHR-31C2CC90"
+      },
+
+      {
+        "name": "forearm",
+        "type": "Tracker",
+        "serial":"LHR-AFC11D87"
+      },
+
+      {
+        "name": "tracking_reference2_1",
+        "type": "Tracking Reference",
+        "serial":"LHB-7ABE6850"
+      },
+
+      {
+        "name": "tracking_reference2_2",
+        "type": "Tracking Reference",
+        "serial": "LHB-843DF190"
+      },
+
+
+
+
+      {
+        "name": "hand",
+        "type": "Tracker",
+        "serial":"LHR-D4116523"
+      },
+
+      {
+        "name": "forearm",
+        "type": "Tracker",
+        "serial":"LHR-39B25240"
+      }, 
+
+      {
+        "name": "arm",
+        "type": "Tracker",
+        "serial":"LHR-4EF505FD"
+      },
+
+      {
+        "name": "chest",
+        "type": "Tracker",
+        "serial":"LHR-1667192F"
+      },
+
+      {
+        "name": "controlatHand",
+        "type": "Tracker",
+        "serial":"LHR-C2BBA77D"
+      }
+
+
+  ]
+
+}
