@@ -148,15 +148,6 @@ class htc_streamer_class:
         self.last_data = data.copy()
         # print(f"Data: {self.last_data}")
         return self.last_data, n_working_tracker
-
-    def close_control_sockets(self):
-        """Close control UDP sockets."""
-        if hasattr(self, 'control_sock') and self.control_sock:
-            self.control_sock.close()
-            print("Control socket closed.")
-        if hasattr(self, 'franka_sock') and self.franka_sock:
-            self.franka_sock.close()
-            print("Franka socket closed.")
     
 
     
