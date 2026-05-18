@@ -1,6 +1,6 @@
 # HTC Tracker Python Wrapper
 
-This repository allows you to collect and stream tracker data from HTC Tracker (both 2.0 or 3.0 versions).
+This repository allows you to collect and stream tracker data from HTC Tracker (both 2.0 or 3.0 versions) usign Python.
 
 ## Software setup
 Follow the steps below in case you do not use the HTC head-mounted display.
