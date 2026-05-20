@@ -22,4 +22,4 @@ C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\set
 
 ## Scripting setup
 In order to run python scripts, at least `Python version 3.9` is required.
-All the scripts are based on the [Triad OpenVR Python Wrapper](https://github.com/TriadSemi/triad_openvr), moreover, the requirements are listed in the `requirements.txt` file.
+All the scripts are based on the [Triad OpenVR Python Wrapper](https://github.com/TriadSemi/triad_openvr).
