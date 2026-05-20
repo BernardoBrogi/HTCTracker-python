@@ -27,6 +27,8 @@ All the scripts are based on the [Triad OpenVR Python Wrapper](https://github.co
 
 ## Usage
 
+The `htc_streamer_class` class allows you to set up the trackers and the order of trackers to retrieve data and stream it over UDP to a specified IP and port.
+
 **Configuration**
 - Edit `config.json` to list your devices. Each entry must contain `name`, `type` (one of `Tracker`, `HMD`, `Controller`, `Tracking Reference`) and the device `serial` as reported by SteamVR. The wrapper maps physical tracker serials to the logical names used in the code (for example `hand`, `forearm`, `arm`, `chest`, `controlatHand`).
 
