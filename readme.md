@@ -24,6 +24,13 @@ C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\null\resources\set
 In order to run python scripts, at least `Python version 3.9` is required.
 All the scripts are based on the [Triad OpenVR Python Wrapper](https://github.com/TriadSemi/triad_openvr).
 
+The coordinate system of each tracker is depicted in the following figure:
+
+<p align="center">
+  <img src="media/reference_tracker_htc.png" width="200">
+</p>
+
+Take into account that this will become the reference system of our analysis since the chest pose will be considered as the world frame.
 
 ## Usage
 
